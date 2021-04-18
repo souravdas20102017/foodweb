@@ -1,0 +1,16 @@
+.menueat{
+    margin-top: -20px;
+    width: 100%;
+    height: 100vh;
+  text-align: center;
+   background-color: white;
+}
+.menuboxes{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.menuieatnav{
+    display: flex;
+    justify-content: space-between;
+}
